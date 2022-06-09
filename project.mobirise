@@ -76,7 +76,7 @@
     "mbrsiteDomain": "gwgfva5uvm",
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
